@@ -13,7 +13,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       LittleBot ACH for Stripe + Plaid
- * Plugin URI:        https://www.littlbot.io/plugins/wp-stripe-plaid-ach-wordpress-plugin
+ * Plugin URI:        https://www.littlebot.io/plugins/wp-stripe-plaid-ach-wordpress-plugin
  * Description:       Accept Stripe ACH payments with Stripe + Plaid.
  * Version:           1.1.4
  * Author:            Justin W Hall
